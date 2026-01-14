@@ -1,5 +1,9 @@
 # *slendr* simulation crash course at Globe (2023)
 
+> [!NOTE]
+> **Note:** For anyone looking at these materials in the years since this event, it probably makes more sense for you to take a look at
+[a new workbook](https://bodkan.net/simgen/) I've been working on. It contains the basis of the materials archived here, and much, much more.
+
 ### You can find the slides [here](https://bodkan.quarto.pub/2023-03-22-globe-slendr-crash-course).
 
 ### [Here](https://bodkan.quarto.pub/2023-03-22-globe-slendr-crash-course-onepage) is a render of the slides as a single HTML page (easier for reference).
